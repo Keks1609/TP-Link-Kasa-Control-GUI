@@ -8,7 +8,10 @@ A lightweight tool to control TP-Link Kasa smart plugs directly from your comput
 ## Features
 - Discover Kasa devices in your local network
 - Turn plugs on and off
+    - Power off safety message before really turn off
 - View real-time device status
+- View real-time device power consumption
+- Change device-name
 - Simple and fast interface
 
 ## Platforms
